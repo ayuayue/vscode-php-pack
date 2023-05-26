@@ -5,6 +5,8 @@
   "description": "vscode extension for php",
   "pricing": "Free",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "license": "AGPL-3.0-only",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -14,6 +16,10 @@
   "repository": {
     "url": "https://github.com/ayuayue/vscode-php-pack"
   },
+  "keywords": [
+    "php",
+    "xdebug"
+  ],
   "extensionPack": [
     "xdebug.php-debug",
     "jaguadoromero.vscode-php-create-class",
