@@ -1,0 +1,31 @@
+{
+  "name": "vscode-php-pack",
+  "publisher": "caoayu",
+  "displayName": "vscode-php-pack",
+  "description": "vscode extension for php",
+  "pricing": "Free",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/ayuayue/vscode-php-pack"
+  },
+  "extensionPack": [
+    "xdebug.php-debug",
+    "jaguadoromero.vscode-php-create-class",
+    "neilbrayfield.php-docblocker",
+    "pwarchol.vscode-php-file-link",
+    "phproberto.vscode-php-getters-setters",
+    "bmewburn.vscode-intelephense-client",
+    "mehedidracula.php-namespace-resolver",
+    "st-pham.php-refactor-tool",
+    "phiter.phpstorm-snippets",
+    "linyang95.php-symbols",
+    "onecentlin.phpunit-snippets",
+    "recca0120.vscode-phpunit"
+  ]
+}
