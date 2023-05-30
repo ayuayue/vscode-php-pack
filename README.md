@@ -16,7 +16,6 @@
 | namespace-resolver | php namespace 自动导入、识别 |
 | refactor-tool | 重命名所有的变量名，类似 phpstorm 的 refactor |
 | phpstorm-snippets | phpstorm 内置的代码片段，如 pubf |
-| php-symbols | php 方法变量名支持 |
 | phpunit | phpunit 测试 |
 
 
