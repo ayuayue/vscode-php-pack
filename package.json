@@ -4,7 +4,7 @@
   "displayName": "vscode-php-pack",
   "description": "vscode extension for php",
   "pricing": "Free",
-  "version": "1.0",
+  "version": "1.0.0",
   "icon": "icon.png",
   "license": "AGPL-3.0-only",
   "engines": {
