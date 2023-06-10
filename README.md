@@ -8,15 +8,9 @@
 
 | 扩展 | 说明 |
 | --  | --  |
-|  xdebug   |   对 php 进行 debug 调试    |
-| create-class | 右键创建 php 类、接口、trait 等|
-| php-docblocker | php 注释生成 |
-| php-file-link | php 代码内文件高亮并可点击跳转 | 
-| intelephense-client | php 代码提示，自动补全插件 |
-| namespace-resolver | php namespace 自动导入、识别 |
-| refactor-tool | 重命名所有的变量名，类似 phpstorm 的 refactor |
-| phpstorm-snippets | phpstorm 内置的代码片段，如 pubf |
-| phpunit | phpunit 测试 |
+|  phptools   |   包含 php 开发的所有工具，命名空间导入，重构变量名等。高级功能需要激活码，可以使用临时邮箱一直试用 30 天    |
+| php-awesome-snippets | php 开发的一些快捷代码片段 |
+
 
 
 

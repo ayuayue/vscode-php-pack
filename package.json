@@ -4,7 +4,7 @@
   "displayName": "vscode-php-pack",
   "description": "vscode extension for php",
   "pricing": "Free",
-  "version": "0.0.4",
+  "version": "1.0",
   "icon": "icon.png",
   "license": "AGPL-3.0-only",
   "engines": {
@@ -21,17 +21,7 @@
     "xdebug"
   ],
   "extensionPack": [
-    "xdebug.php-debug",
-    "jaguadoromero.vscode-php-create-class",
-    "neilbrayfield.php-docblocker",
-    "pwarchol.vscode-php-file-link",
-    "phproberto.vscode-php-getters-setters",
-    "bmewburn.vscode-intelephense-client",
-    "mehedidracula.php-namespace-resolver",
-    "st-pham.php-refactor-tool",
-    "phiter.phpstorm-snippets",
-    "onecentlin.phpunit-snippets",
-    "recca0120.vscode-phpunit",
-    "mrchetan.phpstorm-parameter-hints-in-vscode"
+    "devsense.phptools-vscode",
+    "hakcorp.php-awesome-snippets"
   ]
 }
